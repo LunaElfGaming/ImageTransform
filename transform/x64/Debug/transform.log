@@ -1,0 +1,7 @@
+﻿  main.cpp
+f:\program files (x86)\vcproject\transform\transform\main.cpp(41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\program files (x86)\vcproject\transform\transform\main.cpp(62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\program files (x86)\vcproject\transform\transform\main.cpp(77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+f:\program files (x86)\vcproject\transform\transform\main.cpp(129): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  transform.vcxproj -> F:\Program Files (x86)\VCproject\transform\x64\Debug\transform.exe
+  transform.vcxproj -> F:\Program Files (x86)\VCproject\transform\x64\Debug\transform.pdb (Partial PDB)
