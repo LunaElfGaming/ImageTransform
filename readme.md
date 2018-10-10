@@ -8,7 +8,7 @@
 
 1. 平移变换具体为x方向正向移动30、y方向正向移动60，具体变换见于函数*trans1，*具体效果如下：
 
-![catch1](github.com/LunaElfGaming/ImageTransform/raw/master/catch1.PNG)
+![catch1](https://github.com/LunaElfGaming/ImageTransform/raw/master/catch1.PNG)
 
 ​	结果保存于*translation.png*，若导入原图在文档中看不出平移效果而采用了程序结果的截图。
 
