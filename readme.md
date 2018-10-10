@@ -16,8 +16,8 @@
 
    处理结果分别如下：
 
-   ![expansion1](F:\Program Files (x86)\VCproject\transform\transform\expansion1.png)
-   ![expansion2](F:\Program Files (x86)\VCproject\transform\transform\expansion2.png)
+   ![expansion1](https://github.com/LunaElfGaming/ImageTransform/raw/master/transform/expansion1.png)
+   ![expansion2](https://github.com/LunaElfGaming/ImageTransform/raw/master/transform/expansion2.png)
 
    明显能够看出，采用最近邻插值的第一张图马赛克非常明显，而双线性插值的图二则很平滑。
 
@@ -27,9 +27,9 @@
 
    
 
-   ![rotation1](F:\Program Files (x86)\VCproject\transform\transform\rotation1.png)
+   ![rotation1](https://github.com/LunaElfGaming/ImageTransform/raw/master/transform/rotation1.png)
 
-   ![rotation2](F:\Program Files (x86)\VCproject\transform\transform\rotation2.png)
+   ![rotation2](https://github.com/LunaElfGaming/ImageTransform/raw/master/transform/rotation2.png)
 
    可以从头发或身体等色差比较明显的边界看出，双线性插值达到了一种类似对前一张图做抗锯齿的效果。
 
